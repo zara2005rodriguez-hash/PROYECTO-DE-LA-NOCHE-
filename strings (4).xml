@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein Android-Projekt</string>
+    <string name="saludo">Guten Abend</string>
+    <string name="subtitulo">Dein Abenteuer beginnt hier</string>
+    <string name="empezar">Starten</string>
+    <string name="mensaje_empezar">Los geht\'s!</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_saludo">46sp</dimen>
+    <dimen name="tam_subtitulo">24sp</dimen>
+    <dimen name="tam_boton">22sp</dimen>
+    <dimen name="ancho_boton">300dp</dimen>
+    <dimen name="alto_boton">64dp</dimen>
+    <dimen name="tam_luna">160dp</dimen>
+    <dimen name="espacio">40dp</dimen>
+</resources>

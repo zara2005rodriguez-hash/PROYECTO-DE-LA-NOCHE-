@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo_noche"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/espacio">
+
+    <ImageView
+        android:layout_width="@dimen/tam_luna"
+        android:layout_height="@dimen/tam_luna"
+        android:layout_marginTop="@dimen/espacio"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_luna" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/espacio"
+        android:text="@string/saludo"
+        android:textColor="@color/crema"
+        android:textSize="@dimen/tam_saludo"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/subtitulo"
+        android:textColor="@color/blanco"
+        android:textSize="@dimen/tam_subtitulo" />
+
+    <Button
+        android:id="@+id/btnEmpezar"
+        android:layout_width="@dimen/ancho_boton"
+        android:layout_height="@dimen/alto_boton"
+        android:layout_marginTop="@dimen/espacio"
+        android:background="@drawable/boton_naranja"
+        android:text="@string/empezar"
+        android:textAllCaps="false"
+        android:textColor="@color/noche"
+        android:textSize="@dimen/tam_boton"
+        android:textStyle="bold" />
+
+</LinearLayout>
