@@ -8,3 +8,4 @@ Pantalla de inicio para Android (Java) con tema de noche estrellada.
 
 ## Cómo abrirlo
 Abre la carpeta en Android Studio (*File > Open*), espera a que Gradle sincronice y ejecuta en un emulador.
+Proyecto creado por sara
